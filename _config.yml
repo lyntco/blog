@@ -1,3 +1,7 @@
-theme: minima
+theme: jekyll-theme-chirpy
 author: strawdoll
 title: "A blog for all my works"
+tagline: "Tinkering on a bunch of stuff"
+lang: en
+timezone: Australia/Sydney
+url: https://lyntco.github.io
