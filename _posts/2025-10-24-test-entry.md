@@ -5,3 +5,5 @@ date: 2025-10-24
 # This is a test
 
 Markdown _wooooo!_
+
+![test gif]({{ site.url }}/assets/test.gif)
